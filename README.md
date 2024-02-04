@@ -2,7 +2,7 @@
 A basic password generator project with help of HTML, CSS and JS
 
 ## How to use
-- Visit this [link]() or Clone the repository
+- Visit this [link](https://random-passwrd-gnrator.netlify.app/) or Clone the repository
 - Open the `index.html` file in your browser
 - Click on the `Generate Password` button
 - Select the length of the password
